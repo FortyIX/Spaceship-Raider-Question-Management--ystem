@@ -3,4 +3,4 @@ This is a Online management portal which allow admins to uplodat,edit or delete 
 
 
 ## Screenshot 
-![Screenshot](http://fzhang.co.uk/storage/Web_scrn1.png.png)
+![Screenshot](http://fzhang.co.uk/storage/Web_scrn1.png)
