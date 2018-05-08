@@ -4,11 +4,11 @@ This is a Online management portal which allow admins to uplodat,edit or delete 
 
 ## Screenshot 
 
-![Screenshot](http://fzhang.co.uk/storage/Web_scrn1.png)
+![Screenshot](http://fuzhang.io/storage/Web_scrn1.png)
 </br>
 </br>
 
-![Screenshot](http://fzhang.co.uk/storage/Web_scrn2.png)
+![Screenshot](http://fuzhang.io/storage/Web_scrn2.png)
 
 
 
